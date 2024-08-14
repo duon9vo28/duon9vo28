@@ -12,7 +12,7 @@ Hi there! My full name is Vo Duc Duong.
 ## 🤝How to reach me
 You could contact to me via Gmail, Facebook or LinkedIn:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100092616824283)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092616824283)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/duc-duong-vo-6422591b5/)  
 
