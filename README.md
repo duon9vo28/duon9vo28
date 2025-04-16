@@ -5,7 +5,11 @@ Hi there! My full name is Vo Duc Duong.
 
 🔭 I'm seeking an internship opportunity as a Data Scientist or ML Engineer, where I can apply my knowledge and gain valuable experience.
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="GIF" width="500" height="300"/>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="GIF" width="500" height="300"/>
+    </p>
+
+
 
 ---
 
