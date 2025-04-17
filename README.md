@@ -9,7 +9,7 @@ Hi there! My full name is Vo Duc Duong.
         <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="GIF" width="500" height="300"/>
     </p>
 
-See my Resume here: [MyCV](https://drive.google.com/file/d/17YeONhfYmTPwjTU2K5NKsbU-52-MsM-m/view?usp=sharing)
+📄 [View My Resume](https://drive.google.com/file/d/17YeONhfYmTPwjTU2K5NKsbU-52-MsM-m/view?usp=sharing)
 
 ---
 
