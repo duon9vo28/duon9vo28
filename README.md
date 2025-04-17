@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/af9adebe-5dff-4943-8e5e-e36ebfbbe8e4)## 👋 Welcome to my github
+## 👋 Welcome to my github
 Hi there! My full name is Vo Duc Duong.
 
 🏫 I’m a final-year Computer Science at *University Of Information Technology*
